@@ -1,0 +1,48 @@
+body{
+	padding:2%;
+    background-image: url("images/texture.jpg");
+	background-repeat: repeat;
+}
+#left{
+	float:left;
+}
+#right{
+	float:right;
+}
+#wrapper{
+	padding:3%;
+}
+
+#suggestions{
+    height: 20%;
+    overflow-y: scroll;
+}
+
+#box{
+	padding:2%;
+	text-align:center;
+}
+
+#songTitle{
+	margin:auto;
+	text-align: center;
+}
+
+.jumbotron{
+	background-image: url("images/innerBox.jpg");
+	background-repeat: repeat;
+	border-style: solid;
+	border-color:black;
+	border-width: 5px;
+}
+
+#file{
+	background-color: white;
+}
+
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 60px;
+}
